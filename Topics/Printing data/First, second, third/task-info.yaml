@@ -5,10 +5,5 @@ files:
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/2509#comment
 status: Solved
-feedback:
-  message: |-
-    <html>By typing out and debugging the code yourself, you take a significant step in your coding journey.
-    Keep experimenting and coding from scratch to grow!</html>
-  time: "Sun, 25 Jan 2026 07:57:05 UTC"
 record: -1
 submission_language: java17

@@ -6,9 +6,5 @@ files:
   - name: test/Tests.java
     learner_created: false
 feedback_link: https://hyperskill.org/projects/113/stages/614/implement#comment
-status: Unchecked
-feedback:
-  message: Please update your SDK to version 23. <a href="open_module_settings">Open
-    Project Settings</a>.
-  time: "Sun, 25 Jan 2026 09:33:58 UTC"
-record: -1
+status: Solved
+record: 1
